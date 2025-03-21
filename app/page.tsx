@@ -4,7 +4,6 @@ export default function Home() {
   return (
  <div>
 
-
   
   <h1 className="text-center text-5xl text-slate-500 font-bold">Strona</h1>
      <div className="flex  text-5xl flex-row gap-10 text-center flex-center">
